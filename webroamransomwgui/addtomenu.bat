@@ -1,0 +1,1 @@
+reg add "HKEY_CLASSES_ROOT\Directory\shell\Trust This Item\command" /d "C:\Users\myOS\Desktop\scanner\filter\x64\Release\gui\webroamransomwgui.exe *,%V"
